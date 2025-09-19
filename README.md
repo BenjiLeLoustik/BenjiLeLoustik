@@ -2,7 +2,7 @@
 
 Bonjour et bienvenue sur mon profil GitHub !
 
-Je m'appelle Benjamin, je suis passionné(e) par le développement logiciel, la technologie et la création de projets innovants.  
+Je m'appelle Benjamin, je suis passionné par le développement logiciel, la technologie et la création de projets innovants.  
 J'aime apprendre continuellement de nouvelles compétences et partager mes connaissances avec la communauté.
 
 ## Compétences
@@ -19,16 +19,7 @@ Description : Formation complète axée sur le développement front-end et back-
 
 ## Mon Framework Personnel : CoreliaPHP
 
-J'ai récemment développé un framework PHP nommé **CoreliaPHP**, conçu pour simplifier la création d'applications web robustes et modulaires.  
-Voici quelques-unes de ses caractéristiques clés :
-
-- Moteur de template `.ctpl` léger et performant  
-- Routage basé sur les attributs PHP 8+  
-- ORM intégré pour faciliter la gestion des bases de données  
-- Injection de dépendances pour un code plus propre et testable  
-- Architecture modulaire avec activation/désactivation de modules  
-- Interface d'administration intégrée  
-
+J'ai récemment développé un framework PHP nommé **CoreliaPHP**, conçu pour simplifier la création d'applications web robustes et modulaires.   
 Ce framework est en cours de développement actif et je partage régulièrement son évolution ici sur GitHub.
 
 ## Projets

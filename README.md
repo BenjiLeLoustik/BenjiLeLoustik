@@ -8,7 +8,7 @@ J'aime apprendre continuellement de nouvelles compétences et partager mes conna
 ## Compétences
 
 - Langages : JavaScript, Python, PHP, HTML, LESS/CSS etc.
-- Frameworks : Symfony, Laravel et ([#CoreliaPHP](https://github.com/BenjiLeLoustik/CoreliaPHP)) (mon propre framework)
+- Frameworks : Symfony, Laravel et ([#NeoPHP](https://github.com/BenjiLeLoustik/NeoPHP)) (mon propre framework)
 - Outils : Git, Docker, Linux, etc.
 
 ## Formation
@@ -17,9 +17,9 @@ J'aime apprendre continuellement de nouvelles compétences et partager mes conna
 Durée : 2025 - 2026 <br>
 Description : Formation complète axée sur le développement front-end et back-end, conception de sites et applications web, gestion de bases de données, et bonnes pratiques du développement web moderne.
 
-## Mon Framework Personnel : CoreliaPHP
+## Mon Framework Personnel : NeoPHP
 
-J'ai récemment développé un framework PHP nommé **CoreliaPHP**, conçu pour simplifier la création d'applications web robustes et modulaires.   
+J'ai récemment développé un framework PHP nommé **NeoPHP**, conçu pour simplifier la création d'applications web robustes et modulaires.   
 Ce framework est en cours de développement actif et je partage régulièrement son évolution ici sur GitHub.
 
 ## Projets

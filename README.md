@@ -62,3 +62,6 @@ Si tu souhaites échanger sur le développement back-end, l'architecture PHP, ou
 <p align="center">
   <i>Fichier mis à jour régulièrement au fil de mes projets et de mes expériences.</i>
 </p>
+
+---
+![Profile views](https://komarev.com/ghpvc/?username=BenjiLeLoustik&color=blue)

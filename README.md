@@ -28,7 +28,7 @@ Passionné par le développement logiciel, la technologie et la création de pro
 | Catégorie | Technologies maîtrisées |
 | :--- | :--- |
 | **Langages** | JavaScript, Python, PHP, HTML, LESS / CSS |
-| **Frameworks** | Symfony, Laravel, **[NeoPHP](https://github.com/BenjiLeLoustik/NeoPHP)** *(Mon framework personnel)* |
+| **Frameworks** | Symfony, Laravel, **[NeoPHP](https://neophp.fr/)** *(Mon framework personnel)* |
 | **Outils & DevOps** | Git, Docker, Linux |
 
 ---
@@ -37,7 +37,7 @@ Passionné par le développement logiciel, la technologie et la création de pro
 
 J'ai développé **NeoPHP**, mon propre framework PHP conçu pour simplifier la création d'applications web robustes, légères et architecturalement modulaires. C'est un projet en cours de développement actif.
 
-👉 **[Découvrir le repository NeoPHP](https://github.com/BenjiLeLoustik/NeoPHP)**
+👉 **[Découvrir le repository NeoPHP](https://github.com/NeoPHP-Dev/NeoPHP)**
 
 ---
 
@@ -57,7 +57,7 @@ Si tu souhaites échanger sur le développement back-end, l'architecture PHP, ou
 
 * 📧 **Email :** boezio.benjamin.dev@gmail.com
 * 💼 **LinkedIn :** [Benjamin Boezio](https://linkedin.com/in/benjamin-boezio-abb592271)
-
+* 🌐 **Portfolio :** [Benjamin Boezio](https://benjamin-boezio.vercel.app/)
 ---
 <p align="center">
   <i>Fichier mis à jour régulièrement au fil de mes projets et de mes expériences.</i>

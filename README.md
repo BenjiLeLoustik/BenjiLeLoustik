@@ -37,7 +37,7 @@ Passionné par le développement logiciel, la technologie et la création de pro
 
 J'ai développé **NeoPHP**, mon propre framework PHP conçu pour simplifier la création d'applications web robustes, légères et architecturalement modulaires. C'est un projet en cours de développement actif.
 
-👉 **[Découvrir le repository NeoPHP](https://github.com/NeoPHP-Dev/NeoPHP)**
+👉 **[Découvrir le repository NeoPHP](https://github.com/NeoPHP-Dev/NeoPHP)**  
 🌐 **[NeoPHP](https://neophp.fr/)**
 
 ---
